@@ -1,0 +1,10 @@
+name: xlsparser-environment
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - pandas
+  - re
+  - xlrd
+  - xlwt
+  - os
