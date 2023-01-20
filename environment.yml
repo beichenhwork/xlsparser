@@ -4,4 +4,9 @@ channels:
 dependencies:
   - python=3.9
   - jupyterlab
+  - pandas
+  - re
+  - xlrd
+  - os
+  - xlwt
 prefix: /home/beichenhu/anaconda3/envs/xlsparser
